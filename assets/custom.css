@@ -1,5 +1,8 @@
 ---
 ---
+/*! book-body */
+/*! color-theme-1 */
+/*! color-theme-2 */
 
 .book-body {
     overflow-y: scroll;
@@ -54,7 +57,7 @@
 }
 
 .book.color-theme-1 .book-body .book-header {
-    background: #f3eacb;
+    background: #e8f6f3;
 }
 
 .book.color-theme-2 .book-body .book-header {
