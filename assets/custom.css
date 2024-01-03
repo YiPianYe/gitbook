@@ -1,7 +1,11 @@
 ---
+body {
+background-color: #e8f6f3; //淡蓝色背景
+color: #333; //黑色文字
+}
 ---
 /*! book-body */
-/*! color-theme-1 */
+/*! color-theme-1 #f3eacb #fdf6e3 更换 #e8f6f3;  */
 /*! color-theme-2 */
 
 .book-body {
