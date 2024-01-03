@@ -1,12 +1,12 @@
 /*
- * Theme 1
+ * Theme 1  #e8f6f3  #111111
  */
 .color-theme-1 .dropdown-menu {
-  background-color: #111111;
+  background-color: #e8f6f3;
   border-color: #7e888b;
 }
 .color-theme-1 .dropdown-menu .dropdown-caret .caret-inner {
-  border-bottom: 9px solid #111111;
+  border-bottom: 9px solid #e8f6f3;
 }
 .color-theme-1 .dropdown-menu .buttons {
   border-color: #7e888b;
