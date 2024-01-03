@@ -46,10 +46,10 @@
 }
 .book.color-theme-1 .book-body {
   color: #704214;
-  background: #f3eacb;
+  background: #e8f6f3;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
-  background: #f3eacb;
+  background: #e8f6f3;
 }
 .book.color-theme-2 .book-body {
   color: #bdcadb;
@@ -108,7 +108,7 @@
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal pre,
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal code {
-  background: #fdf6e3;
+  background: #e8f6f3;
   color: #657b83;
   border-color: #f8df9c;
 }
@@ -121,11 +121,11 @@
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr {
   color: inherit;
-  background-color: #fdf6e3;
+  background-color: #e8f6f3;
   border-color: #444444;
 }
 .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
-  background-color: #fbeecb;
+  background-color: #e8f6f3;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal {
   color: #bdcadb;
